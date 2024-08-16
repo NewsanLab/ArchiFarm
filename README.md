@@ -5,7 +5,7 @@ Este proyecto está diseñado para que cualquier persona pueda crear un sistema 
 
 # 📖 Descripción
 El proyecto de cultivo indoor de lechugas se centra en el desarrollo de un sistema inteligente que controla automáticamente las condiciones de crecimiento de las plantas. Este sistema incluye un conjunto de sensores y actuadores conectados a una placa de control diseñada específicamente para este propósito, llamada Archi Farm Beta. Con este sistema, es posible mantener las condiciones óptimas de luz, temperatura, humedad y riego para asegurar un crecimiento saludable de las lechugas.
-![](/img/1.gif)
+![](img/TimeLapse.gif)
 
 # 🔧 Especificaciones Técnicas
 - Placa Controladora: Archi Farm Beta, compatible con el microcontrolador Archi y Arduino Uno.
