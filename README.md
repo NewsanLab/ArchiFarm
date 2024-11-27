@@ -1,4 +1,4 @@
-# 🌱 Proyecto de Cultivo Indoor - Lechugas Inteligentes
+# 🌱 Proyecto de Cultivo en tu propio Smart Indoor
 Este proyecto está diseñado para que cualquier persona pueda crear un sistema automatizado de cultivo indoor para lechugas. Usando tecnología accesible, hemos desarrollado un sistema que permite monitorear y optimizar el crecimiento de las plantas en interiores, subiendo los datos adquiridos a la plataforma Thingspeak para su análisis y seguimiento.
 ![](img/Indoor.jpg)
 ![](img/Greenhouse.jpg)
