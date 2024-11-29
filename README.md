@@ -17,7 +17,7 @@ El proyecto de cultivo indoor de lechugas se centra en el desarrollo de un siste
 
 # ⚙️ Esquema de Conexiones
 A continuación se presenta el esquema de conexiones del sistema. Este esquema muestra cómo se conectan los sensores, actuadores y la placa controladora Archi Farm Beta.
-![](img/Archi_farm_beta_pines.jpg)
+![](img/ArchiFarmBeta_pinout.jpg)
 
 # 📜 Historia del Proyecto
 El proyecto comenzó con la idea de desarrollar un método eficiente y controlado para cultivar lechugas en interiores, especialmente en áreas urbanas donde el espacio y las condiciones climáticas pueden ser limitantes. Tras varias iteraciones, logramos optimizar un sistema que no solo regula el ambiente de las plantas, sino que también permite subir los datos en tiempo real a una plataforma en la nube. De esta manera, cualquier persona puede monitorear y ajustar las condiciones de su cultivo desde cualquier lugar.
